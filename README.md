@@ -1,4 +1,4 @@
-Android Sunflower
+Android Sunflower - Project Downloaded from Google Developers for Learning Purposes
 =================
 
 A gardening app illustrating Android development best practices with Android Jetpack.
